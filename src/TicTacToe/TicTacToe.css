@@ -1,0 +1,40 @@
+body {
+  background: aliceblue;
+}
+
+.container {
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column; */
+  position: absolute;
+  left: 40%;
+  top: 15%;
+}
+
+table td {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: xxx-large;
+}
+
+table tbody {
+  background: #a6faa6;
+}
+
+.textForWinner p {
+  font-size: x-large;
+  font-family: monospace;
+}
+
+.player p {
+  font-size: x-large;
+  font-family: monospace;
+}
+
+.textForWinner {
+  text-align: center;
+}
